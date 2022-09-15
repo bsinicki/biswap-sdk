@@ -17,7 +17,6 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@biswap/sdk": "^2.1.6",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.4",
